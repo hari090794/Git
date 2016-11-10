@@ -16,3 +16,4 @@ class PalindromeExample{
    System.out.println("not palindrome");    
 }  
 }  
+This is palindrome program in java
